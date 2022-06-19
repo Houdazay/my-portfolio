@@ -400,3 +400,16 @@ padding: 0 15px;
     width: 250px;
   }
 }
+
+@media(max-width:974px)
+{
+  .home .home-details h2 
+  {
+  font-size: 16px;
+  text-align: right;
+  }
+  .home .home-details p
+  {
+      font-size: 16px;
+  }
+}
