@@ -156,3 +156,13 @@ header .navigation
   align-items: center;
   transition: 0.7s ease;
 }
+
+.project-details
+{
+
+  width:100%;
+  transition: 0.7s ease;
+  background-color: #000;
+  padding-top: 34px;
+
+}
