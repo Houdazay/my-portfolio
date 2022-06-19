@@ -166,3 +166,8 @@ header .navigation
   padding-top: 34px;
 
 }
+
+.project-details :hover
+{
+  transform: scale(1.1);
+}
