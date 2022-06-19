@@ -164,3 +164,8 @@ header .navigation
   background-color: #000;
   padding-top: 34px;
 }
+
+.project-details :hover
+{
+  transform: scale(1.1);
+}
