@@ -380,3 +380,15 @@ padding: 0 15px;
   right: 0px;
 }
 }
+
+@media (max-width:1079px)
+{
+  .home .home-details .image
+  {
+    width: 299px;
+  }
+  .projects .about
+  {
+    display:inline-block;
+  }
+}
