@@ -392,3 +392,11 @@ padding: 0 15px;
     display:inline-block;
   }
 }
+
+@media (max-width:1071px)
+{
+  .home .home-details .image
+  {
+    width: 250px;
+  }
+}
