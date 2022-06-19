@@ -303,4 +303,12 @@ padding: 0 15px;
   align-items: center;
   height: 180px;
   margin-left: 200px;
-  }
+}
+
+.contact .info h3
+{
+  color: rgb(218, 137, 203);
+  margin-left: 34px;
+  margin-top: 14px;
+  font-size: 22px;
+}
