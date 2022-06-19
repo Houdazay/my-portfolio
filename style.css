@@ -140,3 +140,9 @@ header .navigation
   background-color: #000;
   height: 798px;
 }
+
+.projects .title
+{
+  padding-bottom: 19px;
+
+}
