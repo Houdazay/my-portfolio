@@ -50,3 +50,14 @@ header .navigation
   font-weight: 700;
   font-size: 29px;
 }
+
+/* navigation menu */
+
+.navigation-menu a
+{
+  color: #a72fcc;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 40px;
+}
