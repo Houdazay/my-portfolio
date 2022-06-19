@@ -83,3 +83,12 @@ header .navigation
   padding-left: 170px;
   padding-top: 207px;
 }
+
+.home .home-details h2 
+{
+  color: rgb(255, 238, 0);
+  display: inline-block;
+  margin-top: 30px;
+  font-size: 48px;
+  font-weight: 600;
+}
