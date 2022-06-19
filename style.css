@@ -184,3 +184,10 @@ header .navigation
 {
   opacity: 0.9;
 }
+
+.project-details h3
+{
+  color: rgb(69 165 73);
+  text-align: center;
+  margin-top: 2px;
+}
