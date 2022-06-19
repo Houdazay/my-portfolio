@@ -340,3 +340,43 @@ padding: 0 15px;
   padding-bottom: 2px;
   margin-left:2px;
 }
+
+
+@media (max-width:1353px)
+{
+
+  .home .home-details h2 
+  {
+  font-size: 32px;
+  }
+.home .home-details p
+  {
+      font-size: 18px;
+  }
+  .home .home-details .home-btn 
+  {
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    padding: 15px 15px;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 18px;
+    transition: 0.5s ease;
+    margin-left: 94px ;
+  }
+
+  .project-details img
+  {
+    width: 243px;
+    display: block;
+  }
+  .contacts img
+{
+  width: 124px;
+  position: absolute;
+  margin-top: 15px;
+  margin-right: 132px;
+  right: 0px;
+}
+}
