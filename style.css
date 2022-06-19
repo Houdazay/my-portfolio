@@ -201,3 +201,11 @@ header .navigation
   margin-top: 18px;
   padding-right: 0px;
 }
+
+/* Skills */
+
+.skills
+{
+  background-color: #000;
+  height: 775px;
+}
