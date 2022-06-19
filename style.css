@@ -234,3 +234,9 @@ header .navigation
   justify-content: space-between;
   color: rgb(228, 225, 225);
 }
+
+.skills  p
+{
+  font-weight: 500;
+  font-size: 19px;
+}
