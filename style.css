@@ -102,3 +102,19 @@ header .navigation
   margin-top: 43px;
   margin-bottom: 30px;
 }
+
+.home .home-details .home-btn 
+{
+  color: rgb(0, 0, 0);
+  background-color: #e2ec16;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 600;
+  display: inline-block;
+  padding: 15px 35px;
+  letter-spacing: 1px;
+  border-radius: 15px;
+  margin-bottom: 18px;
+  transition: 0.5s ease;
+  margin-left: 104px ;
+}
