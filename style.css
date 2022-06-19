@@ -191,3 +191,13 @@ header .navigation
   text-align: center;
   margin-top: 2px;
 }
+
+.projects .project-details  p
+{
+  font-size:19px;
+  font-weight: 500;
+  color: #fefefe;
+  text-align: center;
+  margin-top: 18px;
+  padding-right: 0px;
+}
