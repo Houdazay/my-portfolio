@@ -257,3 +257,18 @@ header .navigation
   top: 0;
   background: rgb(220, 20, 170);
 }
+
+skills .html::before
+{
+  width: 80%;
+}
+
+.skills  .css::before
+{
+  width: 60%;
+}
+
+.skills .js::before
+{
+  width: 40%;
+}
