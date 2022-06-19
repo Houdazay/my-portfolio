@@ -124,3 +124,12 @@ header .navigation
   background-color: #fafafa;
   transform: scale(1.1);
 }
+
+.home .home-details .image
+{
+  position:absolute;
+  right:50px;
+  width: 350px; 
+  height: 500px;
+  top: 102px;
+}
