@@ -220,3 +220,8 @@ header .navigation
   width: calc(70% - 3px);
   margin-left: 115px;
 }
+
+.skills  .bars
+{
+  margin-bottom: 26px;
+}
