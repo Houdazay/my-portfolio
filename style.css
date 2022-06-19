@@ -67,3 +67,11 @@ header .navigation
   color: hsla(0, 6%, 16%, 0.31);
   text-decoration-line:underline;
 }
+
+/* home */
+
+.container .header .home
+{
+  display: flex;
+  height: 878px;
+}
