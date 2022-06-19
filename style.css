@@ -133,3 +133,10 @@ header .navigation
   height: 500px;
   top: 102px;
 }
+
+/* projects */
+.projects
+{
+  background-color: #000;
+  height: 798px;
+}
