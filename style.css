@@ -214,3 +214,9 @@ header .navigation
 {
   padding-bottom: 100px;
 }
+
+.skills  .column
+{
+  width: calc(70% - 3px);
+  margin-left: 115px;
+}
