@@ -92,3 +92,13 @@ header .navigation
   font-size: 48px;
   font-weight: 600;
 }
+
+.home .home-details p
+ {
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-top: 43px;
+  margin-bottom: 30px;
+}
