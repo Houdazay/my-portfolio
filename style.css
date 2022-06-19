@@ -225,3 +225,12 @@ header .navigation
 {
   margin-bottom: 26px;
 }
+
+.skills .info
+{
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(228, 225, 225);
+}
