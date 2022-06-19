@@ -209,3 +209,8 @@ header .navigation
   background-color: #000;
   height: 775px;
 }
+
+.skills .title
+{
+  padding-bottom: 100px;
+}
