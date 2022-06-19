@@ -333,3 +333,10 @@ padding: 0 15px;
 {
   margin-bottom: 9px;
 }
+
+.socialmedia-profil img
+{
+  width: 40px;
+  padding-bottom: 2px;
+  margin-left:2px;
+}
