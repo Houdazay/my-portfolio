@@ -413,3 +413,19 @@ padding: 0 15px;
       font-size: 16px;
   }
 }
+
+@media(max-width:803px)
+{
+  .home .home-details .image
+  {
+    width: 0px;
+  }
+  .home .home-details h2 
+  {
+  font-size: 26px;
+  }
+.home .home-details p
+  {
+      font-size: 26px;
+  }
+}
