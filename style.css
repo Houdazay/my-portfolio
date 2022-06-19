@@ -442,3 +442,13 @@ padding: 0 15px;
       font-size: 18px;
   }
 }
+
+@media (max-width:581px)
+{
+    .contact
+    {
+        width:14.25em;
+        padding:34px;
+        margin-left: 116px;
+    }
+}
